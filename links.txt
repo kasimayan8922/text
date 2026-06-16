@@ -1,4 +1,5 @@
-gitlab
+gitlab/github
+https://github.com/wesharebytes
 https://gitlab.com/CRUSVEDER/Darkweb-Onion-Links
 search in darknet
 http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/
